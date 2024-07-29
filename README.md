@@ -1,9 +1,9 @@
 # Gabriel Brasil Machado
 
 ## Bem vindo!
-Natural de Curitiba/PR, tenho 26 anos e sou casado. Amante de jogos, animes e tecnologia em geral, agora estou me aventurando no mundo da programação e buscando minha primeira vaga como dev! 
+Natural de Curitiba/PR, tenho 26 anos e sou casado. Amante de jogos, animes e tecnologia em geral, trabalhando com programação desde 2023. 
 
-Sou comprometido, esforçado e muito disposto a aprender, e ao mesmo tempo que sei me comportar seriamente quando necessário, também mantenho o bom humor e sempre estou buscando oportunidades de fazer piada em uma conversa.
+Sou comprometido, esforçado e muito disposto a aprender, e ao mesmo tempo que sei me comportar seriamente quando necessário, também busco elevar o humor quando tenho oportunidades de fazer piada em uma conversa casual.
 
 <p align="center">
   <img src="https://media.giphy.com/media/YOjP742CyBbg0zKCbl/giphy.gif" style="width: 80%" />
@@ -21,7 +21,7 @@ Sou comprometido, esforçado e muito disposto a aprender, e ao mesmo tempo que s
 </div>
 
 ## Geral
-* 📚 Com conhecimento em front-end, tenho começado meus estudos no back-end para me tornar um desenvolvedor Full Stack.
+* 📚 Com conhecimentos fullstack, estou estudando para me especializar no backend.
 * 🎮🕹️ Meu maior hobbie são os jogos. Gosto muito de RPG's e jogos de simulação, principalmente os de fazenda 👨‍🌾🚜
 * ⛩️🍥 Sou muito fã de animes em geral. O meu favorito é One Piece o qual acompanho desde 2013 🐒🏴‍☠🍖.
 
