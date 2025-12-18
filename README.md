@@ -1,7 +1,7 @@
 # Gabriel Brasil Machado
 
 ## Bem vindo!
-Natural de Curitiba/PR, tenho 26 anos e sou casado. Amante de jogos, animes e tecnologia em geral, trabalhando com programação desde 2023. 
+Natural de Curitiba/PR, tenho 29 anos. Amante de jogos, animes e tecnologia em geral, trabalhando com programação desde 2023. 
 
 Sou comprometido, esforçado e muito disposto a aprender, e ao mesmo tempo que sei me comportar seriamente quando necessário, também busco elevar o humor quando tenho oportunidades de fazer piada em uma conversa casual.
 
