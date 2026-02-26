@@ -22,7 +22,6 @@ Curso de desenvolvimento Fullstack - Kenzie Academy Brasil
 
 
 ### Experiência profissional
-Experiência Profissional
 
 Desenvolvedor Full Stack
 Universidade Positivo
