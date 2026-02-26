@@ -18,8 +18,17 @@ Ferramentas e Outros:
 Git, Zod
 
 ### Formação
-Curso de desenvolvimento Fullstack - Kenzie Academy Brasil
+Tecnólogo em Desenvolvimento Back-end – Universidade Positivo (EAD)
+2024 – Previsão de conclusão: 2º semestre de 2026
+•	Formação superior focada em desenvolvimento backend, banco de dados, arquitetura de sistemas e boas práticas de engenharia de software.
 
+Curso de Desenvolvimento Full Stack – 2.000 horas
+Kenzie Academy Brasil
+Concluído
+•	Formação intensiva em desenvolvimento web full stack, abrangendo frontend e backend.
+•	Desenvolvimento de aplicações com HTML5, CSS3, JavaScript (ES6+), React e Redux.
+•	Desenvolvimento backend com Python (Django e Flask) e SQL.
+•	Prática com versionamento de código e trabalho em equipe utilizando Git.
 
 ### Experiência profissional
 
