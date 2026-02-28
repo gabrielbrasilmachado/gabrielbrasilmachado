@@ -76,7 +76,7 @@ Integração entre frontend e backend, incluindo autenticação e controle de ac
 Configuração de ambiente de deploy e publicação da aplicação em produção.
 
 ## Entre em contato!
-Você pode me conhecer melhor me chamando para uma conversa! Entre em contato pelo <a href="https://www.linkedin.com/in/gabrielbrasilmachado/"> LinkedIn <img src="https://user-images.githubusercontent.com/106697157/200287686-e8c7cde1-dbd2-43cf-8cba-382ce061aee0.png" style="width: 30px"/> </a> ou pelo <a href="https://www.instagram.com/shibudo/"> Instagram <img src="https://user-images.githubusercontent.com/106697157/200288143-6d8c4cbe-27c6-4e54-8f4f-be6bf908dcd0.png" style="width: 30px"/> </a>
+Você pode me conhecer melhor me chamando para uma conversa! Entre em contato pelo <a href="https://www.linkedin.com/in/gabrielbrasilmachado/"> LinkedIn <img src="https://user-images.githubusercontent.com/106697157/200287686-e8c7cde1-dbd2-43cf-8cba-382ce061aee0.png" style="width: 30px"/> </a>
 
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbrasilmachado&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
